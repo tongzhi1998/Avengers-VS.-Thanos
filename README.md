@@ -2,7 +2,7 @@
 Online Multiplayer Card Game
 
 Project Description:
-This is a web-based multiplayer card game with a great emphasis on strategy. For more detailed rules about how to play this game, please go to rules.md.
+This is a web-based multiplayer card game with a great emphasis on strategy. For more detailed rules about how to play this game, please go to AVT/rules.md.
 
 Teamwork:
 Backend Developement and Front-to-back Connection: Tong Zhi
